@@ -1,7 +1,12 @@
 # ger_women_bundesliga
 Scrapping the ladies, This is WIP and will take some time.
 
-## 1) License
+## 1) About
+
+Python learning project. Lets fetch some data and add a few features.
+
+
+## 2) Licence
 
 Copyright (c) [2025] [The7thCat]
 
@@ -10,7 +15,3 @@ The use, modification, and distribution of this code is allowed under the follow
 - **Commercial Use**: Commercial use of this code is only permitted with the express permission of the author. Please contact me for inquiries.
 
 The code is provided "as is", without any warranties or liabilities.
-
-## 2) About
-
-Python learning project. Lets fetch some data and add a few features.
