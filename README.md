@@ -1,4 +1,4 @@
-# ger_women_bundesliga
+# DISCONTINUED: ger_women_bundesliga
 Scrapping the ladies, This is WIP and will take some time.
 
 ## 1) About
