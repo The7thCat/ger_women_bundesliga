@@ -6,6 +6,7 @@ from time import sleep
 from scraping_functions import scrape_match_data
 from match_data_class import *
 
+# DISCONTINUED
 # avoid browser being closed immediately
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
