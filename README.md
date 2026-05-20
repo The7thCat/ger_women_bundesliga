@@ -1,4 +1,10 @@
 # DISCONTINUED: ger_women_bundesliga
+
+I didn't push this further, website had multiple changes and i need to start from scratch i fear.
+This is the orgiginal code, scraping worked partly but the dynamic website the german television ARD uses was
+not that easy to scrap - forget classic soup^^
+aka DISCONTINUED
+
 Scrapping the ladies, This is WIP and will take some time.
 
 ## 1) About
